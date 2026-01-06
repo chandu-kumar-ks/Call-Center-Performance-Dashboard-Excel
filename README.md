@@ -1,9 +1,5 @@
 # Call-Center-Performance-Dashboard-Excel
 
-📊 Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
-
 **Project Overview**
 This project focuses on analyzing call center operations using Microsoft Excel.
 The dashboard provides insights into call volume, agent performance, customer satisfaction,
